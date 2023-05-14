@@ -45,6 +45,28 @@ export default function Home() {
               <ChevronRight/>
             </button>
           </div>
+          <h1 className="font-semibold text-3xl mt-10">Good Afternoon</h1>
+          <div className="grid grid-cols-3 gap-4 mt-10">
+            <div className="bg-white/10 rounded overflow-hidden">
+              <img src="/album.jpg" width={120} height={120} alt="Capa do álbum sanguecarmesim, artista Kami-kam" />
+            </div>
+            <div className="bg-white/10 rounded overflow-hidden">
+              <img src="/album.jpg" width={120} height={120} alt="Capa do álbum sanguecarmesim, artista Kami-kam" />
+            </div>
+            <div className="bg-white/10 rounded overflow-hidden">
+              <img src="/album.jpg" width={120} height={120} alt="Capa do álbum sanguecarmesim, artista Kami-kam" />
+            </div>
+            <div className="bg-white/10 rounded overflow-hidden">
+              <img src="/album.jpg" width={120} height={120} alt="Capa do álbum sanguecarmesim, artista Kami-kam" />
+            </div>
+            <div className="bg-white/10 rounded overflow-hidden">
+              <img src="/album.jpg" width={120} height={120} alt="Capa do álbum sanguecarmesim, artista Kami-kam" />
+            </div>
+            <div className="bg-white/10 rounded overflow-hidden">
+              <img src="/album.jpg" width={120} height={120} alt="Capa do álbum sanguecarmesim, artista Kami-kam" />
+            </div>
+
+          </div>
         </main>
       </div>
       <footer className="bg-zinc-800 border-t border-zinc-700 p-6">
